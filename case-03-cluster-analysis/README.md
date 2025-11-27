@@ -117,3 +117,9 @@
 cd case-03-cluster-analysis
 jupyter notebook customer_clustering_analysis.ipynb
 ```
+
+---
+
+## 🎬 Video Explicativo
+
+🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=f_WuRfuMXQw)
