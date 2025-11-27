@@ -117,3 +117,9 @@
 cd case-02-discriminant-analysis
 jupyter notebook LeadSmart_Analysis.ipynb
 ```
+
+---
+
+## 🎬 Video Explicativo
+
+🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=f_WuRfuMXQw)

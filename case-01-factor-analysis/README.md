@@ -119,3 +119,9 @@ Las 23 variables de satisfacción se agrupan en 5 categorías originales:
 cd case-01-factor-analysis
 jupyter notebook main.ipynb
 ```
+
+---
+
+## 🎬 Video Explicativo
+
+🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=f_WuRfuMXQw)
